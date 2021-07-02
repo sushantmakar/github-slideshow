@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-I am able to edit this successully
+This is a wonderful slide. Thanks
+
 Use the left arrow to go back!
